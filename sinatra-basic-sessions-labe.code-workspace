@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "/Users/alicefreda/Documents/Flatiron/code/sinatra-basic-sessions-lab-uci-online-web9-pt-093019/config"
+		},
+		{
+			"path": "/Users/alicefreda/Documents/Flatiron/code/sinatra-basic-sessions-lab-uci-online-web9-pt-093019/models"
+		},
+		{
+			"path": "/Users/alicefreda/Documents/Flatiron/code/sinatra-basic-sessions-lab-uci-online-web9-pt-093019/public"
+		},
+		{
+			"path": "/Users/alicefreda/Documents/Flatiron/code/sinatra-basic-sessions-lab-uci-online-web9-pt-093019/spec"
+		},
+		{
+			"path": "."
+		}
+	]
+}
